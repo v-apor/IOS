@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  I am Rich
+//  IamPoor
 //
-//  Created by Apoorv Chandrakar on 06/11/21.
+//  Created by Apoorv Chandrakar on 18/02/22.
 //
 
 import UIKit
@@ -16,3 +16,4 @@ class ViewController: UIViewController {
 
 
 }
+
